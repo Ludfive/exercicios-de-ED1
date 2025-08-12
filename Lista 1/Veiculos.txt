@@ -1,0 +1,13 @@
+BLF8392;Preto;Fiat;2;Passeio;5	
+ABC3556;Prata;Hyundai;2;Passeio;6
+DPM4955;Cinza;Honda;2;Moto;7
+AQW5432;Preto;Maxibus;3;Onibus;4
+TPA1912;Branco;Citroen;2;Passeio;4		
+WQP1265;Branco;Toyota;2;Passeio;6
+HBD2345;Prata;Scania;3;Caminhao;4
+VBM9863;Azul;Yamaha;2;Moto;3
+ITX1245;Cinza;Peugeot;2;Passeio;1
+PNG0933;Verde;Volks;4;Caminhao;5
+SAN6532;Preto;Volare;3;Onibus;7
+ITW1239;Azul;Volks;3;Caminhao;8
+DWE2357;Cinza;Dafra;2;Moto;5

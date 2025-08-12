@@ -1,0 +1,4 @@
+while(!filacheia)
+	Adicionar elemento
+	While(cont<3ut)
+		
